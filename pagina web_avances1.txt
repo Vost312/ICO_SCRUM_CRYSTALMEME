@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!-- saved from url=(0062)https://alejandrozip.wixsite.com/proyectofinalelchido/miembros -->
+<html lang="en" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    
+    
+    <title>Proyecto final | MIEMBROS</title>
+    <meta name="generator" content="Wix.com Website Builder">
+    
+    
+        <meta name="fb_admins_meta_tag" content="">
+    
+    <link rel="shortcut icon" href="https://www.wix.com/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="https://www.wix.com/favicon.ico" type="image/x-icon">
+    
+    
+    
+    
+    
+    <meta http-equiv="X-Wix-Meta-Site-Id" content="fffc8bae-6aa1-4115-a362-ebae53b805ad">
+    <meta http-equiv="X-Wix-Application-Instance-Id" content="01fc120d-210e-4f3c-930c-52bdb632c997">
+    
+    
+        <meta http-equiv="X-Wix-Published-Version" content="12">
+    
+    
+    
+        <meta http-equiv="etag" content="8540944163e07e42fa010b4bb9e6995c">
+    
+    
+    <meta name="format-detection" content="telephone=no">
+    
+    
+    
+    
+    
+    
+    <meta property="og:type" content="article">
+    
+    
+    
+    
+    <meta property="og:site_name" content="proyectofinalelchido">
+    
+    
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+
+    
+        <meta id="wixMobileViewport" name="viewport" content="width=980, user-scalable=yes">
+    
